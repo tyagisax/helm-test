@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  social-distancing-retail:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-06T14:59:48.768616853+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 7567eef98395ec5718ebc1bb55d0d34b37e5837323b17086d7e4332860188973
+    name: social-distancing-retail
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/tyagisax/helm-test/main/social-distancing-retail-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-06T14:59:48.765731736+05:30"
