@@ -9,6 +9,6 @@ entries:
     name: icr
     type: application
     urls:
-    - https://raw.githubusercontent.com/tyagisax/helm-test/main/icr-0.1.0.tgz
+    - https://raw.githubusercontent.com/tyagisax/helm-test/main/helm-icr/icr-0.1.0.tgz
     version: 0.1.0
 generated: "2021-10-07T15:24:45.22732869+05:30"
